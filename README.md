@@ -1,7 +1,7 @@
 ## Hi there! I'm Yaswanth Reddy Sunkara 👋
 
 ## 🚀 What I'm Learning
-I'm currently pursuing my Master's in Cybersecurity at the University of Maryland, College Park. My interests include:
+Master's in Cybersecurity at the University of Maryland, College Park. My interests include:
 - Threat Intelligence & Incident Response 🔍
 - Penetration Testing & Web Application Security 🛡️
 - Network Security & SIEM/XDR tools 🖥️
