@@ -1,38 +1,26 @@
-## Hi there! I'm Yaswanth Reddy Sunkara 👋
+# Yaswanth Reddy Sunkara
 
-## 🚀 What I'm Learning
-Master's in Cybersecurity at the University of Maryland, College Park. My interests include:
-- Threat Intelligence & Incident Response 🔍
-- Penetration Testing & Web Application Security 🛡️
-- Network Security & SIEM/XDR tools 🖥️
+> I find the one real, exploitable bug hiding behind a hundred scanner findings, then build tooling to do it at scale.
 
-## 🔥 What I'm Working On
-- **Security Research**: Exploring the latest cyber threats and mitigation techniques.
-- **Capture The Flag (CTF) Challenges**: Sharpening my skills in ethical hacking and cryptography.
-- **Portfolio Website**: Showcasing my cybersecurity projects and achievements.
+**Security engineer and vulnerability researcher** working offensive security, application security, and AI-assisted bug hunting. I break things by reading code and business logic, not by trusting a scanner, and I write the tooling to do it faster.
 
-## 🎯 Goals
-- Land a cybersecurity job where I can apply my skills.
-- Contribute to open-source security projects.
-- Continue building expertise in malware analysis and threat detection.
+🔬 **5 assigned CVEs** from independent WordPress plugin research, surfaced by a 13-agent autonomous offensive-security system I built (recon, SAST, DAST, exploit verification, CVE submission) and confirmed by hand with curl-reproducible proof.
 
-## 🎮 Hobbies
-When I'm not busy with cybersecurity, I love:
-- Exploring Tech Innovations 💡
-- Watching Sci-Fi Movies 🚀
+### What I break
+- **Web and API:** BFLA and BOLA authorization bypasses, SVG stored XSS, postMessage origin flaws, MIME upload bypass for arbitrary file upload.
+- **Networks and AD:** chained NTLM relay into AD CS certificate-template abuse with Certipy to reach Domain Admin.
+- **Wireless and mobile:** WPA2-Enterprise Evil Twin attacks; iOS and Android reverse engineering for hardcoded keys and insecure storage.
+- **AI and LLM:** RAG application red teaming for prompt injection, data exfiltration, and denial-of-wallet.
 
-Feel free to connect with me! Let's learn and grow together. 😊
-<!--
-**yaswanth77/yaswanth77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I build
+- **ReconX:** AI-assisted, multi-stage reconnaissance framework with Burp integration.
+- **PhishLens:** phishing triage across 40+ signals and 8 APIs, cutting investigation from 30 minutes to 15 seconds.
+- Python and Bash automation that validates 100+ Nessus findings in under 10 minutes with auto-captured proof.
 
-Here are some ideas to get you started:
+### Toolbox
+Burp Suite, Metasploit, Nessus, Nmap, MobSF, Kali Linux, Python, Bash, SAST and DAST, OWASP Top 10, WSTG, and LLM Top 10, MITRE ATT&CK, AWS. CEH, eJPT, and Security+ certified; pursuing OSCP and CDSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proof, not claims
+- 🐛 **CVEs:** [Wordfence researcher profile](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/yaswanth-reddy-sunkara)
+- ✍️ **Writeups:** [medium.com/@yaswanthrs007](https://medium.com/@yaswanthrs007)
+- 🌐 **Portfolio:** [yaswanth77.github.io/cyberfolio](https://yaswanth77.github.io/cyberfolio/)
